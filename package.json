@@ -1,0 +1,19 @@
+{
+  "name": "currency-server",
+  "version": "1.0.0",
+  "description": "Get Outfit API backend for currency exchange rates",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GetOutfit/currency-server.git"
+  },
+  "author": "Denis Bystruev (dbystruev@me.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GetOutfit/currency-server/issues"
+  },
+  "homepage": "https://github.com/GetOutfit/currency-server#readme"
+}
