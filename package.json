@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GetOutfit/currency-server/issues"
   },
-  "homepage": "https://github.com/GetOutfit/currency-server#readme"
+  "homepage": "https://github.com/GetOutfit/currency-server#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
